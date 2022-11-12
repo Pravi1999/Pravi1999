@@ -1,12 +1,12 @@
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.w600.comps.canstockphoto.com%2Fweb-development-banner-eps-vectors_csp89498730.jpg&imgrefurl=https%3A%2F%2Fwww.canstockphoto.com%2Fweb-development-banner-89498730.html&tbnid=qt-TrRItrNiGhM&vet=12ahUKEwjZj9jYkKj7AhXdi9gFHQN7ARAQMygIegUIARDEAQ..i&docid=3jh5_ujjeK42iM&w=600&h=279&q=banner%20image%20for%20front%20end%20developer%20and%20testing&hl=en&ved=2ahUKEwjZj9jYkKj7AhXdi9gFHQN7ARAQMygIegUIARDEAQ" alt="Master-banner"/>
+![ScreenShot](https://www.themoontechnologies.com/images/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Praveena N</h1>
 <h3 align="center">A passionate tester and frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fstudent-writing-code-laptop-home-office-freelance-programmer-developing-software-freelancer-coder-working-remote-typing-240246431.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcode-programmer-tester.html&tbnid=lulVmIkqonbpLM&vet=12ahUKEwiF-qOgj6j7AhWRpukKHYrXAncQMygHegUIARDeAQ..i&docid=w8nmfEYKvPLeTM&w=800&h=533&q=animated%20coding%20%20images%20tester&ved=2ahUKEwiF-qOgj6j7AhWRpukKHYrXAncQMygHegUIARDeAQ"/>
+<img align="right" alt="Coding" width="400" src="https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-1.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravi1999&label=Profile%20views&color=0e75b6&style=flat" alt="pravi1999" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, Selenium automation**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML, CSS, JS, Testing**
+- 💬 Ask me about **HTML, CSS, JS, Selenium automation**
 
 - 📫 How to reach me **praveenan997@gmail.com**
 
