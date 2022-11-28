@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML, CSS, JS, Selenium automation**
+- 💬 Ask me about **HTML, CSS, JS, Selenium automation, CI/CD PIPLINE_JENKINS**
 
 - 📫 How to reach me **praveenan997@gmail.com**
 
